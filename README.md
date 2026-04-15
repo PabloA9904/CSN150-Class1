@@ -18,4 +18,5 @@ console.log(cat + dog)
 ```
 
 ### Third Level Heading
-The link is here [Youtube](Https://youtube.com)
+The link is here [Youtube](Https://youtube.com)  
+A Relative link goes to a file: [README2.md](/README2)
