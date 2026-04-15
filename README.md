@@ -4,8 +4,8 @@ list
 - number 2
 
 ## Task List
--[x] completed  
--[] not completed  
+- [x] completed  
+- [] not completed  
 This is an image  
 ![This is a Kraken](Images/Kraken.jpg)  
 This is a second image  
