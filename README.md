@@ -1,4 +1,6 @@
 # CSN150-Class1
+This is an image  
+![This is a Kraken](Images/Kraken.jpg)  
 A test one  
 Add two spaces at the end of the line to createa a new line  
 **Bold**  
