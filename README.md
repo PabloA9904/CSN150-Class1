@@ -9,7 +9,8 @@ Hello <sub>subscript</sub>  crazy<sup>supscript</sup>
 <ins>underline</ins>  
 
 ## Second Level Heading
->This is a quote  
+>This is a quote
+This is how to add code as a comment:  
 ```
 var dog
 var cat
