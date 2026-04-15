@@ -1,4 +1,11 @@
 # CSN150-Class1
+list
+- number 1  
+- number 2
+
+## Task List
+-[x] completed  
+-[] not completed  
 This is an image  
 ![This is a Kraken](Images/Kraken.jpg)  
 This is a second image  
