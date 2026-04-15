@@ -10,5 +10,9 @@ Hello <sub>subscript</sub>  crazy<sup>supscript</sup>
 
 ## Second Level Heading
 >This is a quote  
-
+```
+var dog
+var cat
+console.log(cat + dog)
+```
 ### Third Level Heading
