@@ -1,8 +1,8 @@
 # CSN150-Class1
 This is an image  
 ![This is a Kraken](Images/Kraken.jpg)  
-This is a second image
-![image](https://i.imgur.com/BBn5iTI_d.webp?maxwidth=520&shape=thumb&fidelity=high)
+This is a second image  
+![image](https://i.imgur.com/BBn5iTI_d.webp?maxwidth=520&shape=thumb&fidelity=high)  
 A test one  
 Add two spaces at the end of the line to createa a new line  
 **Bold**  
