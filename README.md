@@ -5,7 +5,7 @@ Add two spaces at the end of the line to createa a new line
 *Italics*  
 ~strikethrough~  
 ***boldItalics***  
-Hello <sub>subscript</n>  <sup>supscript</n>
+Hello <sub>subscript</n>  crazy<sup>supscript</n>
 
 ## Second Level Heading
 ### Third Level Heading
